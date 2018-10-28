@@ -7,9 +7,10 @@ public class Character : MonoBehaviour {
     private bool isPaused;
 
 	// Use this for initialization
-	void Start () {
-		
-	}
+	void Start ()
+    {
+        isPaused = false;
+    }
 	
 	// Update is called once per frame
 	void Update () {
