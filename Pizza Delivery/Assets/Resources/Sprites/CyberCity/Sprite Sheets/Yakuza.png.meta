@@ -14,6 +14,18 @@ TextureImporter:
     21300018: Yakuza_back2
     21300020: Yakuza_back3
     21300022: Yakuza_left3
+    21300024: Yakuza_0
+    21300026: Yakuza_1
+    21300028: Yakuza_2
+    21300030: Yakuza_3
+    21300032: Yakuza_4
+    21300034: Yakuza_5
+    21300036: Yakuza_6
+    21300038: Yakuza_7
+    21300040: Yakuza_8
+    21300042: Yakuza_9
+    21300044: Yakuza_10
+    21300046: Yakuza_11
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -96,241 +108,241 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Yakuza_forward1
+      name: Yakuza_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 191
-        width: 45
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1d0e145df94e4544bf8e8d82df0954f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_left1
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 127
-        width: 45
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b3b357504a65374e98bbc7877f8e0ae
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_forward2
-      rect:
-        serializedVersion: 2
-        x: 67
+        x: 0
         y: 192
-        width: 54
+        width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88d907c90beb07544871451ff60baa68
+      spriteID: 48a441a46f62fe34c87c89b4c64548d1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yakuza_forward3
+      name: Yakuza_1
       rect:
         serializedVersion: 2
-        x: 139
+        x: 64
         y: 192
-        width: 45
+        width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8f3d443d51e8364aaa638418de5ba26
+      spriteID: 44a8f2f97e956804ba424a4a598fe1b1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yakuza_back1
+      name: Yakuza_2
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1
-        width: 49
-        height: 65
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d589927b5996b8458be6c9a0eaf152b
+      spriteID: 051aa7c74f1bbc54dbeec23ea4be5147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yakuza_right1
+      name: Yakuza_3
       rect:
         serializedVersion: 2
-        x: 8
-        y: 64
-        width: 45
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3868671395b51d4188277cd718601f7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_right3
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 63
-        width: 45
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb083bcc360f59a43b32b371670c8bed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_left2
-      rect:
-        serializedVersion: 2
-        x: 75
+        x: 0
         y: 128
-        width: 46
+        width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c969d13c5b1bdea429ff82db099fe4f4
+      spriteID: 9d8229ca8238bd14b81375859dde1eae
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yakuza_right2
+      name: Yakuza_4
       rect:
         serializedVersion: 2
-        x: 72
-        y: 64
-        width: 46
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c387572d35c137448edfe668b21224a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_back2
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 0
-        width: 50
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de46755278bf9c449a00d5c5ef2a5c14
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_back3
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 0
-        width: 53
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97855ca7549ba914590b3da954fe48c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yakuza_left3
-      rect:
-        serializedVersion: 2
-        x: 139
+        x: 64
         y: 128
-        width: 46
+        width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c08aa6675010cf4f8b3e833288cc83f
+      spriteID: f817c2c495a57e44a94671a4ad887522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf21ca5e819b21459e9b1cc2fe4ff15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e494346cda9552428be4980d8407663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a50f691a170d4ea1ad49203428520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752c47f299bcd214ab0f64ce1a5129b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba6a9bfba6808498ab35a55a05aaa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eb891efa6f4542b91b3593097cedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakuza_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24bc5e0b25af3c459037be661aa54bd
       vertices: []
       indices: 
       edges: []

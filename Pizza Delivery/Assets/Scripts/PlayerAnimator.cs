@@ -57,10 +57,10 @@ public class PlayerAnimator : MonoBehaviour {
         spriteSetLength = characterSpriteSet.Length;
         
         stillCharacterSpriteSet = new Sprite[4];
-        stillCharacterSpriteSet[0] = characterSpriteSet[4];
-        stillCharacterSpriteSet[1] = characterSpriteSet[1];
-        stillCharacterSpriteSet[2] = characterSpriteSet[7];
-        stillCharacterSpriteSet[3] = characterSpriteSet[10];
+        stillCharacterSpriteSet[0] = characterSpriteSet[1];
+        stillCharacterSpriteSet[1] = characterSpriteSet[10];
+        stillCharacterSpriteSet[2] = characterSpriteSet[4];
+        stillCharacterSpriteSet[3] = characterSpriteSet[7];
     }
 	
 	// Update is called once per frame
@@ -77,8 +77,8 @@ public class PlayerAnimator : MonoBehaviour {
             Translate();
         }
         
-        verticalAxis = Input.GetAxis("Vertical");
-        horizontalAxis = Input.GetAxis("Horizontal");
+        verticalAxis = Input.GetAxisRaw("Vertical");
+        horizontalAxis = Input.GetAxisRaw("Horizontal");
 
         if (verticalAxis > deadValue)
         {
@@ -124,25 +124,25 @@ public class PlayerAnimator : MonoBehaviour {
 
     public void WalkForward()
     {
-        SetAnimationConstraints(3, 6, (int)Direction.Forward);
+        SetAnimationConstraints(0, 3, (int)Direction.Forward);
         isStill = false;
     }
 
     public void WalkBackward()
     {
-        SetAnimationConstraints(0, 3, (int)Direction.Backward);
+        SetAnimationConstraints(9, 12, (int)Direction.Backward);
         isStill = false;
     }
 
     public void WalkLeft()
     {
-        SetAnimationConstraints(6, 9, (int)Direction.Left);
+        SetAnimationConstraints(3, 6, (int)Direction.Left);
         isStill = false;
     }
 
     public void WalkRight()
     {
-        SetAnimationConstraints(9, 12, (int)Direction.Right);
+        SetAnimationConstraints(6, 9, (int)Direction.Right);
         isStill = false;
     }
 
