@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour {
         gameplayManager = GameObject.Find("GameplayManager").GetComponent<GameplayManager>();
         anm = GetComponent<Animator>();
         deadValue = gameplayManager.DeadValue;
-        movementDistance = 2.0f;
+        movementDistance = 3.0f;
         isStill = true;
     }
 	
